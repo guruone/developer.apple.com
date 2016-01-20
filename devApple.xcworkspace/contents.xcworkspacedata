@@ -11,6 +11,87 @@
          location = "group:mac"
          name = "mac">
          <Group
+            location = "group:DictionaryController"
+            name = "DictionaryController">
+            <Group
+               location = "group:snaps"
+               name = "snaps">
+               <FileRef
+                  location = "group:01.png">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:AppDelegate.h">
+            </FileRef>
+            <FileRef
+               location = "group:AppDelegate.m">
+            </FileRef>
+            <FileRef
+               location = "group:DictionaryController.app">
+            </FileRef>
+            <FileRef
+               location = "group:DictionaryController.xcodeproj">
+            </FileRef>
+            <FileRef
+               location = "group:DropView.h">
+            </FileRef>
+            <FileRef
+               location = "group:DropView.m">
+            </FileRef>
+            <FileRef
+               location = "group:DropWindowController.h">
+            </FileRef>
+            <FileRef
+               location = "group:DropWindowController.m">
+            </FileRef>
+            <Group
+               location = "group:English.lproj"
+               name = "English.lproj">
+               <FileRef
+                  location = "group:Credits.rtf">
+               </FileRef>
+               <FileRef
+                  location = "group:DropWindow.nib">
+               </FileRef>
+               <FileRef
+                  location = "group:InfoPlist.strings">
+               </FileRef>
+               <FileRef
+                  location = "group:Localizable.strings">
+               </FileRef>
+               <FileRef
+                  location = "group:MainMenu.nib">
+               </FileRef>
+               <FileRef
+                  location = "group:MainWindow.nib">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+            <FileRef
+               location = "group:main.m">
+            </FileRef>
+            <FileRef
+               location = "group:MyWindowController.h">
+            </FileRef>
+            <FileRef
+               location = "group:MyWindowController.m">
+            </FileRef>
+            <FileRef
+               location = "group:people.dict">
+            </FileRef>
+            <FileRef
+               location = "group:Prefix.pch">
+            </FileRef>
+            <FileRef
+               location = "group:README.md">
+            </FileRef>
+            <FileRef
+               location = "group:rightArrow.tiff">
+            </FileRef>
+         </Group>
+         <Group
             location = "group:ExhibitionAnAdaptiveOSXApp"
             name = "ExhibitionAnAdaptiveOSXApp">
             <Group
