@@ -1,5 +1,17 @@
 # CocoaSlideCollection
 
+## Snaps
+
+![Snap 01](https://github.com/guruone/developer.apple.com/blob/master/library/mac/CocoaSlideCollectionUsingNSCollectionViewonOSX10.11/snaps/01.png)
+
+![Snap 02](https://github.com/guruone/developer.apple.com/blob/master/library/mac/CocoaSlideCollectionUsingNSCollectionViewonOSX10.11/snaps/02.png)
+
+![Snap 03](https://github.com/guruone/developer.apple.com/blob/master/library/mac/CocoaSlideCollectionUsingNSCollectionViewonOSX10.11/snaps/03.png)
+
+![Snap 04](https://github.com/guruone/developer.apple.com/blob/master/library/mac/CocoaSlideCollectionUsingNSCollectionViewonOSX10.11/snaps/04.png)
+
+
+
 ## Version
 
 1.0
@@ -27,15 +39,3 @@ Checking the "Group by Tag" checkbox demonstrates the ability to group NSCollect
 See the Application Kit Release Notes and WWDC 2015 Session 225 - What's New in NSCollectionView for more information on using the new NSCollectionView APIs.
 
 Copyright (C) 2015 Apple Inc. All rights reserved.
-
-Snaps:
-![Snap 01](https://github.com/guruone/developer.apple.com/blob/master/library/mac/CocoaSlideCollectionUsingNSCollectionViewonOSX10.11/snaps/01.png)
-
-![Snap 02](https://github.com/guruone/developer.apple.com/blob/master/library/mac/CocoaSlideCollectionUsingNSCollectionViewonOSX10.11/snaps/02.png)
-
-
-![Snap 03](https://github.com/guruone/developer.apple.com/blob/master/library/mac/CocoaSlideCollectionUsingNSCollectionViewonOSX10.11/snaps/03.png)
-
-
-![Snap 04](https://github.com/guruone/developer.apple.com/blob/master/library/mac/CocoaSlideCollectionUsingNSCollectionViewonOSX10.11/snaps/04.png)
-
