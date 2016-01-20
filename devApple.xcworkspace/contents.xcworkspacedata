@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <Group
+      location = "group:library"
+      name = "library">
+      <Group
+         location = "group:mac"
+         name = "mac">
+         <Group
+            location = "group:ExhibitionAnAdaptiveOSXApp"
+            name = "ExhibitionAnAdaptiveOSXApp">
+            <Group
+               location = "group:snaps"
+               name = "snaps">
+               <FileRef
+                  location = "group:01.png">
+               </FileRef>
+               <FileRef
+                  location = "group:02.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Exhibition"
+               name = "Exhibition">
+               <FileRef
+                  location = "group:AppDelegate.swift">
+               </FileRef>
+               <Group
+                  location = "group:Assets.xcassets"
+                  name = "Assets.xcassets">
+                  <Group
+                     location = "group:AppIcon.appiconset"
+                     name = "AppIcon.appiconset">
+                     <FileRef
+                        location = "group:16.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:16@2x.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Contents.json">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Icon-256.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Icon-256@0.5x.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Icon-256@2x.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Icon-257.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Icon-32.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Icon-32@2x.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Icon-512.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Icon-512@2x.png">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+                  <Group
+                     location = "group:DesktopTemplate.imageset"
+                     name = "DesktopTemplate.imageset">
+                     <FileRef
+                        location = "group:Contents.json">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Desktop.pdf">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:FolderTemplate.imageset"
+                     name = "FolderTemplate.imageset">
+                     <FileRef
+                        location = "group:Contents.json">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Folder.pdf">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <Group
+                  location = "group:Base.lproj"
+                  name = "Base.lproj">
+                  <FileRef
+                     location = "group:MainMenu.xib">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:CenteringClipView.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:GalleryWindowController.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:GalleryWindowController.xib">
+               </FileRef>
+               <FileRef
+                  location = "group:ImageCollection.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:ImageCollectionListController.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:ImageCollectionListController.xib">
+               </FileRef>
+               <FileRef
+                  location = "group:ImageCollectionViewItem.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:ImageCollectionViewItem.xib">
+               </FileRef>
+               <FileRef
+                  location = "group:ImageFile.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:ImageListController.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:ImageListController.xib">
+               </FileRef>
+               <FileRef
+                  location = "group:ImageToolsViewController.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:ImageViewerController.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:ImageViewerController.xib">
+               </FileRef>
+               <FileRef
+                  location = "group:Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:StandaloneImageWindowController.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:StandaloneImageWindowController.xib">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Exhibition.xcodeproj">
+            </FileRef>
+            <FileRef
+               location = "group:LICENSE.txt">
+            </FileRef>
+            <FileRef
+               location = "group:README.md">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:CocoaSlideCollectionUsingNSCollectionViewonOSX10.11"
+            name = "CocoaSlideCollectionUsingNSCollectionViewonOSX10.11">
+            <Group
+               location = "group:snaps"
+               name = "snaps">
+               <FileRef
+                  location = "group:01.png">
+               </FileRef>
+               <FileRef
+                  location = "group:02.png">
+               </FileRef>
+               <FileRef
+                  location = "group:03.png">
+               </FileRef>
+               <FileRef
+                  location = "group:04.png">
+               </FileRef>
+               <FileRef
+                  location = "group:05.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:CocoaSlideCollection"
+               name = "CocoaSlideCollection">
+               <FileRef
+                  location = "group:CocoaSlideCollection.entitlements">
+               </FileRef>
+               <FileRef
+                  location = "group:CocoaSlideCollection_Prefix.pch">
+               </FileRef>
+               <Group
+                  location = "group:Controller"
+                  name = "Controller">
+                  <FileRef
+                     location = "group:AAPLAppDelegate.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLAppDelegate.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLBrowserWindowController.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLBrowserWindowController.m">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:English.lproj"
+                  name = "English.lproj">
+                  <FileRef
+                     location = "group:BrowserWindow.xib">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Credits.rtf">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Footer.xib">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Header.xib">
+                  </FileRef>
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainMenu.xib">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Slide.xib">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <Group
+                  location = "group:Model"
+                  name = "Model">
+                  <FileRef
+                     location = "group:AAPLFileTreeWatcherThread.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLFileTreeWatcherThread.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLImageCollection.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLImageCollection.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLImageFile.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLImageFile.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLTag.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLTag.m">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Resources"
+                  name = "Resources">
+                  <Group
+                     location = "group:AppIcon.sketch"
+                     name = "AppIcon.sketch">
+                     <FileRef
+                        location = "group:Data">
+                     </FileRef>
+                     <FileRef
+                        location = "group:metadata">
+                     </FileRef>
+                     <Group
+                        location = "group:QuickLook"
+                        name = "QuickLook">
+                        <FileRef
+                           location = "group:Preview.png">
+                        </FileRef>
+                        <FileRef
+                           location = "group:Thumbnail.png">
+                        </FileRef>
+                     </Group>
+                     <FileRef
+                        location = "group:version">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:SlideArt.xcassets"
+                     name = "SlideArt.xcassets">
+                     <Group
+                        location = "group:AppIcon.appiconset"
+                        name = "AppIcon.appiconset">
+                        <FileRef
+                           location = "group:Contents.json">
+                        </FileRef>
+                        <FileRef
+                           location = "group:icon_128x128.png">
+                        </FileRef>
+                        <FileRef
+                           location = "group:icon_128x128@2x.png">
+                        </FileRef>
+                        <FileRef
+                           location = "group:icon_512x512.png">
+                        </FileRef>
+                        <FileRef
+                           location = "group:icon_512x512@2x.png">
+                        </FileRef>
+                     </Group>
+                     <FileRef
+                        location = "group:Contents.json">
+                     </FileRef>
+                     <Group
+                        location = "group:SlideCarrier.imageset"
+                        name = "SlideCarrier.imageset">
+                        <FileRef
+                           location = "group:Contents.json">
+                        </FileRef>
+                        <FileRef
+                           location = "group:SlideCarrier.png">
+                        </FileRef>
+                        <FileRef
+                           location = "group:SlideCarrier@2x.png">
+                        </FileRef>
+                     </Group>
+                  </Group>
+                  <Group
+                     location = "group:SlideCarrier.sketch"
+                     name = "SlideCarrier.sketch">
+                     <FileRef
+                        location = "group:Data">
+                     </FileRef>
+                     <FileRef
+                        location = "group:metadata">
+                     </FileRef>
+                     <Group
+                        location = "group:QuickLook"
+                        name = "QuickLook">
+                        <FileRef
+                           location = "group:Preview.png">
+                        </FileRef>
+                        <FileRef
+                           location = "group:Thumbnail.png">
+                        </FileRef>
+                     </Group>
+                     <FileRef
+                        location = "group:version">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <Group
+                  location = "group:View"
+                  name = "View">
+                  <FileRef
+                     location = "group:AAPLFooterView.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLFooterView.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLHeaderView.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLHeaderView.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLSlide.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLSlide.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLSlideBorderView.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLSlideBorderView.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLSlideCarrierView.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLSlideCarrierView.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLSlideImageView.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLSlideImageView.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLSlideTableBackgroundView.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AAPLSlideTableBackgroundView.m">
+                  </FileRef>
+                  <Group
+                     location = "group:Layouts"
+                     name = "Layouts">
+                     <FileRef
+                        location = "group:AAPLCircularLayout.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:AAPLCircularLayout.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:AAPLLoopLayout.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:AAPLLoopLayout.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:AAPLScatterLayout.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:AAPLScatterLayout.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:AAPLSlideLayout.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:AAPLSlideLayout.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:AAPLWrappedLayout.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:AAPLWrappedLayout.m">
+                     </FileRef>
+                  </Group>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:CocoaSlideCollection.xcodeproj">
+            </FileRef>
+            <FileRef
+               location = "group:LICENSE.txt">
+            </FileRef>
+            <FileRef
+               location = "group:README.md">
+            </FileRef>
+         </Group>
+      </Group>
+   </Group>
+</Workspace>
