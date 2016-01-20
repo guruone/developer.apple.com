@@ -22,6 +22,9 @@
                <FileRef
                   location = "group:02.png">
                </FileRef>
+               <FileRef
+                  location = "group:03.png">
+               </FileRef>
             </Group>
             <Group
                location = "group:Exhibition"

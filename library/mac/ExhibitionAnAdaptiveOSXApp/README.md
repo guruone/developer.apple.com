@@ -8,6 +8,8 @@ The Exhibition sample demonstrates techniques for making windows more adaptive. 
 
 ![Snap 02](https://github.com/guruone/developer.apple.com/blob/master/library/mac/ExhibitionAnAdaptiveOSXApp/snaps/02.png)
 
+![Snap 03](https://github.com/guruone/developer.apple.com/blob/master/library/mac/ExhibitionAnAdaptiveOSXApp/snaps/03.png)
+
 
 ## Model
 
